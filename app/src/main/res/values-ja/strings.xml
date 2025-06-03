@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CS3130-課題3</string>
+
+    <string name="subtotal">小計：</string>
+    <string name="shipping">送料：</string>
+    <string name="total">合計：</string>
+    <string name="cart_exceeded_notification_title">カートのアイテム</string>
+    <string name="cart_exceeded_notification_text">カートの合計が200ポンドを超えました</string>
+    <string name="add_to_cart">カートに追加</string>
+    <string name="quantity">数量</string>
+
+    <string name="banana_cake">バナナとバニラ、シナモンの香りが広がるしっとりバナナケーキ。</string>
+    <string name="cheesecake">バター風味のクラストに、なめらかでクリーミーなクラシックチーズケーキ。</string>
+    <string name="chocolate_cake">濃厚なチョコレート層とガナッシュのフロスティングで贅沢な味わい。</string>
+    <string name="confetti_cake">カラフルなスプリンクルがはじける、楽しいファンフェッティケーキ。</string>
+    <string name="doggie_cake">あなたのかわいいワンちゃんのために作られた安全で愛らしいトリート。</string>
+    <string name="easter_cake">パステルカラーのイースター装飾が施された春らしいバニラケーキ。</string>
+    <string name="red_velvet_cake">クリームチーズフロスティングがのった、ベルベットのようなカカオケーキ。</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CS3130-Assignment3</string>
+
+    <string name="subtotal">Subtotal:</string>
+    <string name="shipping">Shipping:</string>
+    <string name="total">Total:</string>
+    <string name="cart_exceeded_notification_title">Cart Items</string>
+    <string name="cart_exceeded_notification_text">Your cart total has exceeded 200 EGP</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="quantity">Quantity</string>
+    <string name="banana_cake">Moist banana sponge with a hint of vanilla and cinnamon.</string>
+    <string name="cheesecake">Creamy and smooth classic cheesecake with a buttery crust.</string>
+    <string name="chocolate_cake">Rich, decadent chocolate layers with silky ganache frosting.</string>
+    <string name="confetti_cake">Colorful funfetti vanilla cake bursting with sprinkles.</string>
+    <string name="doggie_cake">A safe, adorable treat made especially for your cute dog.</string>
+    <string name="easter_cake">Easter-themed vanilla cake topped with pastel easter decorations.</string>
+    <string name="red_velvet_cake">Velvety cocoa cake with classic cream cheese frosting.</string>
+</resources>
